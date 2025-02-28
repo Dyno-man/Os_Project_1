@@ -9,7 +9,7 @@ This Library Management System is a Rust-based application that simulates a libr
 - **Phase 3**: Simulating resource contention scenarios
 - **Phase 4**: Resolving thread locking issues
 
-The system manages books and users, tracks book borrowing and returning operations, and logs all activities. It also includes functionality to import book data from CSV files.
+The system manages books and users and tracks book borrowing and returning operations. It also includes functionality to import book data from CSV files.
 
 ## Features
 
